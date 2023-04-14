@@ -1,0 +1,24 @@
+functools
+django
+numpy np
+re regexp regex regular
+pandas pd
+itertools
+collections
+os
+csv
+time
+sys
+tensorflow tf keras
+selenium
+requests
+math
+random
+sklearn scikit scikit-learn
+datetime date
+flask
+json
+matplotlib pyplot plt plot
+urllib
+scipy
+subprocess
